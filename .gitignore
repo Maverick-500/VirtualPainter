@@ -1,13 +1,11 @@
-# Ignore virtual environment
-venv/
 
-# macOS system files
-.DS_Store
-
-# Python cache
 __pycache__/
+.DS_Store
+.vscode/
 *.pyc
 *.pyo
-
+# Ignore virtual environment
+# macOS system files
+# Python cache
 # VSCode settings (optional)
-.vscode/
+venv/
